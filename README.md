@@ -58,6 +58,6 @@ Contributions, issues, and feature requests are welcome!
 Feel free to fork this repository and make improvements.
 
 👨‍💻 Author
-Your Name
-LinkedIn: Your LinkedIn Profile
-GitHub: Your GitHub Profile
+Saket ranjan
+LinkedIn: https://www.linkedin.com/in/saket-ranjan-951b052a9/
+GitHub: https://github.com/saket05-ctr
